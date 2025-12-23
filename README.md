@@ -38,13 +38,13 @@ These measurements are critical for predicting **Coronal Mass Ejections (CMEs)**
 
 ## 🧠 System Architecture
 
-![System Architecture](visualizations/system_architecture.png)
+![System Architecture](images/system_architecture.png)
 
 > *Figure 1: Overall architecture of The Oracle of DSCOVR showing data ingestion, anomaly detection, and geomagnetic storm prediction pipeline.*
 
 ### 1️⃣ Anomaly Detection Model
 
-![Anomaly Detection Workflow](visualizations/anomaly_detection_workflow.png)
+![Anomaly Detection Workflow](images/anomaly_detection_workflow.png)
 
 > *Figure 2: Anomaly detection process applied to DSCOVR solar wind data.*
 
@@ -74,11 +74,11 @@ This model estimates geomagnetic indices that indicate how strongly Earth’s ma
 
 ## 📊 Results & Visualization
 
-![Anomaly Detection Results](visualizations/anomaly_results.png)
+![Anomaly Detection Results](images/anomaly_results.png)
 
 > *Figure 3: Visualization of detected anomalies (red points) overlaid on normal solar wind data.*
 
-![Prediction Model Performance](visualizations/model2_performance.png)
+![Prediction Model Performance](images/model2_performance.png)
 
 > *Figure 4: Performance of the geomagnetic storm prediction model (RMSE evaluation).*
 
